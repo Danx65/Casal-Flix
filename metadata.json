@@ -1,0 +1,6 @@
+{
+  "name": "Guia 10X - Apimentar Sua Relação",
+  "description": "Aplicativo web de experiência premium para fortalecer o relacionamento a dois com desafios diários, conversas profundas, encontros, surpresas e plano de 30 dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
